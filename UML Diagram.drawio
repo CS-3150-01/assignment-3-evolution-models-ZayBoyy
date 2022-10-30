@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T03:49:59.323Z" agent="5.0 (Windows)" etag="0DyNrAwAaAlR0cnSXpeN" version="20.5.1" type="device"><diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">7VlLc+I4EP41VO0e2AIbGzjyCJNDpmaqkp3HUdiNrUS2vLJMYH79tmz5hW0CGULmkEsitaTuVne7v27RMxfB7pMgkf+Zu8B6xsDd9cxlzzAMy7T+sXCgaPuMNjIGGcET1M1Iw5JwT3+BJubbEupCXNsoOWeSRnWiw8MQHFmjESH4c33bhrO61Ih40CDcO4Tl1PwCiv6dutLX9KE9LRdugXq+Fj4x7GxhTZwnT/Ak1BJ7hrkarYbLm2w5IDkvfdXYJy5/rpDMm565EJzLbBTsFsCUfXPD5efkPte2Z859GTCcDHGYLq86Dg9POYyXExDKqrhOfvbYcG17NDI30yGsrb5hZiy2hCVawncu0PzGYBbH1AsDxdkY/Pv5Dv8uKfEECRpKSdih+HksBX+CBWdcID3kIS7PN5SxA1LlAhseSh1Pxiifa8ZqfQtCUnT0jKEuSAuo66rFOdEEB/UDoU/mctCJ5tRcWHaribRRFWvYVUjaZJ+AByDFHrfo1b6tnag/j7GePlcizcq/Bb8SZSNNIzq+vYJ16SMcaDe1u+xL4vYfv+1m8tvP2/Gdsxonv7y+1fBaz7CZ8kFU84z9X6ICcx4Q4VE012wQ7YppX/IISaOUpFzY10adFUYtOeDI0/9TOeucoMMlo+Jl1o2d4pCCu6JDmi+U4nlmyaUOuxVw6bYkzZXB0L/WvGct8QI4ZdwhkvKwIrR2pIPLAw0gY+Agh6czTysd0sM+Rw+88mxMQveo8Vq4nW2+c+KEwUYWgdLGUqnvQQiCSHgAIQgN//o7u0zplSPOv7gyG8LYA18CZu9ckTUC0lV1EBCDzKVvOXWvJ31NJcQPPiyTuNAgDeyzPsmL6nSa4ANcOcz+acIqUn8mc85x14almKywpg4qQ0PPVySgTOXvW2BbUFwPgKgCU6oGMBaLyaqBabhyMxjPrNWLgNNAlxYM6gSc0agOOEOrBXHsFsApiBdHnHHDOeBiDaanXEifezwk7KakztOyChTXgfJTseeOKz+mZn8EKffaVySRvO4UNJfY/6hOfipmWO3p6XKnmWezfTFzZ6qsxKlLScBD98FXMasWVmmMpBxjSUQRKGMkMLIGNi8qwmo8ZDXh6+NBWet4NKBxeSIcOOIEXbOi2h7Il8qDZnQJYAiJ27oeF48U+0q1SUp1weEiw3lzpqJNMJrWmCdULl/Wj2kzorLjvRQJjo+UMV1Fy2/nzMlRFCmqgoCGCWb1CyfsE4X7GJlXFF2WQkBiHsYf8HEWfIytA/iYWKfBx/St0APt+C7wUcCAwwi2s87LEFBADqKMOarCToFBnaCDs68gsM5KE1RK/NMRZXIlRNFHv3KaPifoQLWw568Gqjk4CMBML32qjEH0KtlXtkVqQ3yGnJFVfyZp7Ld+c3/tGQYHmcblB1TY8PXf1KQTZ9P+cJDnuTLDauh8GRkXAjunRMBCfTXn9fZNSGw0rCRQaThcx1EBNBp+05yfCz8u432bXQGR4G7iQN5dvaz0VXpOlxYauRCnRuWiQ4MWN+Adui70Bs3gB3a3tn7jeiqZtrR+ltnS+h3mzsuBt/nR+70/Uk9PROrJe/Z+0z/nXbqAlMNMdsU36ovn9/QRM3veplsaelcFl7IbTEIPumDljWXHDCD6QJBj3d+g3v2Z05buz7pM94fT8qfPrLAtf2M2b/4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-30T21:33:06.217Z" agent="5.0 (Windows)" etag="n35UVS59bAdSBG64QewR" version="20.5.1" type="github">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="2870.5" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#F4F1DE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="1672d66443f91eb5-23" value="World Assignment UML Diagram" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="70" width="1510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class:World&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;+ Location: map&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Time: clock&lt;/div&gt;&lt;div&gt;+ int: hole&lt;/div&gt;&lt;div&gt;+ int: sand&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fallToDeath(): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ bitesTheDust(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ spawnCreature(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ spawnCreature(Creature): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ tickTock(): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="420" y="150" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;startSize=17;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" source="Oud-jVxAtVYH7LcF7uzg-6" target="Oud-jVxAtVYH7LcF7uzg-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Class:Time&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ int: minutes&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ int: hours&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ bool: dayNight&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&amp;nbsp; +Operator++()&lt;/div&gt;&lt;div&gt;&amp;nbsp; +Operator++(int)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="750" y="185" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;startSize=17;entryX=0.534;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" source="Oud-jVxAtVYH7LcF7uzg-8" target="Oud-jVxAtVYH7LcF7uzg-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="340" />
+              <mxPoint x="516" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-8" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Class:Creature&lt;/b&gt;&lt;br&gt;&lt;hr&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ int: hungerMeter&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ int: tiredMeter&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ int: locationX&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ int: locationY&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ bool: alive&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ reproduce(): Creature&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ die(): void&lt;br&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;+ eat(int): void&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ move(): void&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ getLocationX(): int&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ getLocationY(): int&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="447" y="390" width="153" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;startSize=17;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Oud-jVxAtVYH7LcF7uzg-9" target="Oud-jVxAtVYH7LcF7uzg-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oud-jVxAtVYH7LcF7uzg-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class:Location&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ char[255][255]: map&lt;/div&gt;&lt;div&gt;&lt;hr&gt;+ generateTerrain(): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ getValueAt(int, int): char &lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="757.5" y="410" width="145" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
